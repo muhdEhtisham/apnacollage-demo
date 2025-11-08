@@ -1,2 +1,3 @@
 # apnacollage-demo
-This is my Repository.
+This is my Git Repository.
+Author - Muhammad Ehtisham
